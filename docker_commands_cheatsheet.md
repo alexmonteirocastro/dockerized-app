@@ -17,3 +17,5 @@ docker image ls
 docker container ls
 docker container ls --all
 docker container ls -aq
+
+docker build -t image-name:tag .
